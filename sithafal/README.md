@@ -2,6 +2,8 @@ Chat with Website Using RAG Pipeline
 
 This project demonstrates a Retrieval-Augmented Generation (RAG) pipeline for querying and interacting with website data. The system crawls web content, processes it into embeddings, stores it in a vector database, and uses a language model to generate context-rich responses.
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kotlapranay05/Chat-with-Website/blob/main/notebooks/Task2.ipynb)
+
 ---
 
 Features
@@ -15,7 +17,6 @@ Features
 Setup Instructions
 
 1. Clone the Repository
-```bash
     git clone https://github.com/your-username/RAG-Pipeline-Project.git
     cd RAG-Pipeline-Project
 
@@ -37,3 +38,4 @@ Input:
     Query: What are the key takeaways of the article?
 Output:
     "The article discusses the importance of data privacy, emerging trends in AI, and actionable steps for businesses."
+
