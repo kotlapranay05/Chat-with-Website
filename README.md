@@ -36,5 +36,5 @@ Output:
     "The article discusses the importance of data privacy, emerging trends in AI, and actionable steps for businesses."
 
 *****************************************************************************************
-[![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/your-username/your-repository/blob/main/notebooks/your_notebook.ipynb](https://colab.research.google.com/drive/1dG49_Pp4XvM62_a72vuh3FoA_8oah9Oo#scrollTo=X8rCUFTc1hh6)](https://colab.research.google.com/drive/1dG49_Pp4XvM62_a72vuh3FoA_8oah9Oo?usp=sharing))
+[![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg)]([(https://colab.research.google.com/drive/1dG49_Pp4XvM62_a72vuh3FoA_8oah9Oo?usp=sharing)])
 
