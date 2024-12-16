@@ -13,7 +13,6 @@ Features
 Setup Instructions
 
 1. Clone the Repository
-```bash
     git clone https://github.com/your-username/RAG-Pipeline-Project.git
     cd RAG-Pipeline-Project
 
@@ -35,3 +34,7 @@ Input:
     Query: What are the key takeaways of the article?
 Output:
     "The article discusses the importance of data privacy, emerging trends in AI, and actionable steps for businesses."
+
+*****************************************************************************************
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/your-repository/blob/main/notebooks/your_notebook.ipynb)
+
